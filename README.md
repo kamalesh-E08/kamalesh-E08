@@ -33,3 +33,12 @@ Links to my GitHub, LinkedIn, and other professional profiles
   -> Finance Management – A React-based financial data tracker with interactive charts.
   
   -> Face Attendance System – A Python Tkinter-based face recognition attendance system with email notifications.
+
+Language known
+  -> Pyhton, C/C++, Java
+
+Connect with
+  Email : kamaleshe76@gmail.com
+  linkedIn : https://www.linkedin.com/in/kamalesh-e-27b456265/
+
+
